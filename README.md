@@ -22,7 +22,6 @@ A **modern and fully responsive eCommerce landing page** built using **Tailwind 
 - **JavaScript**
 - **Hostinger** (for deployment)
 
-- Here’s a polished **README.md** you can use for your `landing-page` repository. I’ve structured it to highlight your project’s strengths, make it professional, and stand out to recruiters or collaborators:
 
 
 ---
