@@ -87,7 +87,7 @@ This project is licensed under the **Apache-2.0 License** – free to use and mo
 ## 👩‍💻 Author
 **Karanam Susmitha**  
 - GitHub: @ksusmitha879-cyber [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fksusmitha879-cyber")  
-- Portfolio: _Coming Soon_
+  
 
 ---
 
